@@ -9,4 +9,4 @@ GitHub — это платформа, которая хранит Git-репоз
 ---
 
 
-In short, the GitHub logos represent only GitHub and should not be used to represent you or your projects, products, or company. You may also if you’re into that.
+Git hub logo https://github.com/logos. In short, the GitHub logos represent only GitHub and should not be used to represent you or your projects, products, or company. You may also if you’re into that.
