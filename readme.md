@@ -16,8 +16,7 @@ LICENSE: [MIT](./license.md)
 8. [git logo](./git%20logo.md)
 9. [git clone](./git%20clone.md)
 10. [github](./git%20hub.md)
-   ![Github](./assets/Github_Logo.png)
-   
+
 
 
 
